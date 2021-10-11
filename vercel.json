@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://yes-play-music-alpha-five.vercel.app/:match*"
+      "destination": "https://netease-cloud-music-api-one-gamma.vercel.app/:match*"
     }
   ]
 }
