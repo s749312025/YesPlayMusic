@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://netease-api.shengchao.top/:match*"
+      "destination": "https://yes-play-music-alpha-five.vercel.app/:match*"
     }
   ]
 }
